@@ -9,3 +9,5 @@ Types of recommendations implemented in this project:
 * Collaborative Filtering Based Recommendations
 
 * Content Based Recommendations
+
+* Matrix Factorization
